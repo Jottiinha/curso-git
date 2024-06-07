@@ -19,4 +19,4 @@
 
  Importância da frequente atualização do código trabalhado para evitar conflitos.
 ```
- Mais detalhes no histórico de COMMITS presente no repositório.
+MAIS DETALHES NO HISTÓRICO DE COMMITS PRESENTES NO REPOSITÓRIO.
